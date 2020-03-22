@@ -4,6 +4,6 @@
 >
 >- [ ] Working with MongoDB;
 > 
->- [x] unchecked # [checkbox:unchecked] Making a package with the [**passwordmaker**](https://github.com/leonardomartelli/passwordmaker) files - project that I developed - that now is there making presence;
+>- [x] Making a package with the [**passwordmaker**](https://github.com/leonardomartelli/passwordmaker) files - project that I developed - that now is there making presence;
 > 
 >- [ ] Find some way to encrypt that information; 
